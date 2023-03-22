@@ -7,7 +7,6 @@ import {
   useEffect,
 } from 'react'
 import {
-  ActionsTypes,
   addNewCycleAction,
   interruptCurrentCycleAction,
   markCurrentCyclesAsFinishedAction,
